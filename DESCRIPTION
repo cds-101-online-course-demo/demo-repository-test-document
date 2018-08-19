@@ -1,0 +1,7 @@
+Title: Test document
+Depends:
+  R (>= 3.5)
+Imports:
+  ggplot2
+Remotes:
+  tidyverse/ggplot2

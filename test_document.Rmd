@@ -1,0 +1,48 @@
+---
+title: "Test document"
+author: "FirstName LastName"
+date: "`r Sys.Date()`"
+documentclass: article
+geometry: margin=1in
+fontsize: 11pt
+output: html_document
+---
+
+```{r setup, include = FALSE}
+# DO NOT ALTER THIS CHUNK
+# Set knitr options
+knitr::opts_chunk$set(
+  echo = TRUE,
+  eval = TRUE,
+  fig.width = 5,
+  warning = FALSE,
+  fig.asp = 0.618,
+  out.width = "80%",
+  dpi = 120,
+  fig.align = "center",
+  cache = FALSE,
+  message = FALSE
+)
+# Load required packages
+suppressPackageStartupMessages(library(ggplot2))
+```
+
+## Question 1
+
+
+
+
+## Question 2
+
+
+
+
+## Question 3
+
+
+
+
+## Question 4
+
+
+
