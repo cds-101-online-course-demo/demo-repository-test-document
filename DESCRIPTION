@@ -2,6 +2,8 @@ Title: Test document
 Depends:
   R (>= 3.5)
 Imports:
-  ggplot2
+  ggplot2,
+  rmarkdown
 Remotes:
+  rstudio/rmarkdown,
   tidyverse/ggplot2
